@@ -51,8 +51,4 @@ Fake news has become a major concern in the digital age, spreading misinformatio
 
 ![image](https://github.com/user-attachments/assets/406838dc-87db-4042-8603-4039c22c8857)
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Fake-News-Detection.git
