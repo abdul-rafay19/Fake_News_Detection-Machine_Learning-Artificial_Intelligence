@@ -49,7 +49,7 @@ Fake news has become a major concern in the digital age, spreading misinformatio
 
 ## System Architecture
 
-![Project Diagram](path-to-diagram-image) <!-- Replace with an actual link to your diagram -->
+![image](https://github.com/user-attachments/assets/406838dc-87db-4042-8603-4039c22c8857)
 
 ## How to Run
 
